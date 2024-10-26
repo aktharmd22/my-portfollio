@@ -12,6 +12,14 @@ import Java from '../assets/Java.png';
 import Spring from '../assets/Spring.png';
 import MySql from '../assets/MySql.png';
 import php from '../assets/php.png'
+import ci4 from '../assets/3.png'
+import wordpress from '../assets/7.png'
+import nodejs from '../assets/4.png'
+import mongodb from '../assets/5.png'
+import expressj from '../assets/6.png'
+import seo from '../assets/8.png'
+import server from '../assets/9.png'
+import DM from '../assets/10.png'
 
 const Skills = () => {
   return (
@@ -67,6 +75,38 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={php} alt="HTML icon" />
                   <p className='my-4'>PHP</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={ci4} alt="HTML icon" />
+                  <p className='my-4'>Codeigniter</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={wordpress} alt="HTML icon" />
+                  <p className='my-4'>Wordpress</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={nodejs} alt="HTML icon" />
+                  <p className='my-4'>Node Js</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={expressj} alt="HTML icon" />
+                  <p className='my-4'>Express Js</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={mongodb} alt="HTML icon" />
+                  <p className='my-4'>Mongo DB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={seo} alt="HTML icon" />
+                  <p className='my-4'>SEO</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={server} alt="HTML icon" />
+                  <p className='my-4'>Server</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={DM} alt="HTML icon" />
+                  <p className='my-4'>Digital Marketing</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={MySql} alt="HTML icon" />

@@ -12,11 +12,19 @@ const Home = () => {
           Mohamed Akthar
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
+<<<<<<< HEAD
           I'm a FullStack Web Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           
         As a full-stack web developer with digital marketing skills, I create responsive, user-friendly applications with strong backend support. My experience in digital marketing ensures that my projects are optimized for SEO, analytics, and audience engagement, delivering both technical performance and impactful user experiences.
+=======
+          I'm a FrontEnd Developer.
+        </h2>
+        <p className='text-[#8892b0] py-4 max-w-[700px]'>
+          
+            As a frontend developer with expertise in crafting outstanding user interfaces, I specialize in constructing responsive web applications that deliver exceptional digital experiences, occasionally incorporating design elements into the process.
+>>>>>>> 18d9e0c743b1d7fae7157c0b66ffa8fee8c51192
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-blue-600 hover:border-blue-600'>
